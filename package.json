@@ -1,0 +1,18 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "Api Gestao de Tarefas",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Leandro Sauwen <leandroassis@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "consign": "^0.1.2",
+    "express": "^4.13.4",
+    "sequelize": "^3.19.3",
+    "sqlite3": "^3.1.1"
+  }
+}
