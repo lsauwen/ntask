@@ -1,5 +1,5 @@
 {
-  "name": "ntask-api",
+  "name": "ntask",
   "version": "1.0.0",
   "description": "Api Gestao de Tarefas",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "Leandro Sauwen <leandroassis@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.8.23",
+    "babel": "^5.8.29",
     "consign": "^0.1.2",
     "express": "^4.13.4",
     "sequelize": "^3.9.0",
